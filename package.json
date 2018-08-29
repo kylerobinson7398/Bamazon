@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/kylerobinson7398/Bamazon.git"
   },
-  "author": "",
+  "author": "Kyle Robinson",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/kylerobinson7398/Bamazon/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/kylerobinson7398/Bamazon#readme"
 }
